@@ -1,5 +1,10 @@
 # flutter_application_1
 
+## 📥 Download APK
+
+👉 [Download Flutter App APK](./flutter.apk)
+
+
 ![Screenshot 2025-06-26 115150](https://github.com/user-attachments/assets/207ddf11-f8a6-4935-bed9-7a61b25192ab)
 
 
